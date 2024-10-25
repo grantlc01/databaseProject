@@ -1,7 +1,7 @@
 # databaseProject
 
 I was tasked with creating a database for use by a pizzeria in my Database Systems class of Fall 2023. 
-This repository contains only three other files, one for creating all of the tables, one for inserting the data into those tables, and one containing the queries we were to create to test our database.
+This repository contains only three other files, one for creating all of the tables, one for inserting the data into those tables, and one containing the queries to create to test the database.
 This project was not completed using git, instead it was uploaded to github later (hence the lack of commits).
 
 All SQL for this project was run in MicroSoft SQL Server (MSS).
